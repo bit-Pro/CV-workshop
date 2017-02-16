@@ -7,7 +7,7 @@
 * Excellent communication skills
 
 ##Skills
-* Communication skills
+* Communication skills  
 Working at the Highgate dairy puts me in constant situations to deal with a lot of people.
 
 
