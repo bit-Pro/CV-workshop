@@ -8,6 +8,14 @@
 
 ##Skills
 * Communication skills  
-Working at the Highgate dairy puts me in constant situations to deal with a lot of people.
+Working at the Highgate dairy puts me in constant situations to deal with a lot of people.  
+  
+* Problem solving  
+Studying Programming at Otago Polytechnic has taught me to think outside of the box when it comes to problems.  
+  
+* Time management  
+Studying at Otago Polytechnic and being set multiple assignments at the same time has improved my time management.  
+  
+* 
 
 
