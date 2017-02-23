@@ -1,15 +1,13 @@
 ##Joseph Bloggs
 
-1 Smith St, Dunedin | (03) 477 4774 | xboxfiend512@hotmail.com 
+1 Smith St, Dunedin | (03) 477 4774 | Joesephbloggs@email.com 
 
 ###Personal Summary
 
-I am great with people because I can communicate well and I am very friendly, as well as having good manners.  
-I am very reliable, I always turn up on time, I’m honest and hard working and I enjoy working with people.   
+I have a wide variety of personal and interpersonal skills developed in the workplace.  
+I am a strong believer in time management and organisation.   
 I have a very positive attitude and I enjoy making a difference and making the most of every opportunity.   
-I am currently studying towards a BIT and I am enjoying all my papers.  
-I am doing quite well with my grades and I have not missed a class all of this semester without a medical certificate.   
-I really enjoy learning new things and I take pride in myself to do well.
+
  
 ###Skills list
 * Good communication
