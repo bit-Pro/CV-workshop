@@ -48,7 +48,7 @@ Responsibilities:
 
 References
 
-Joy Gasson
-Otago Polytechnic
-Joy.gasson@op.ac.nz
+Joy Gasson  
+Otago Polytechnic  
+Joy.gasson@op.ac.nz  
 
