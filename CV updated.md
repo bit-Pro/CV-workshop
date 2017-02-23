@@ -17,19 +17,19 @@ I am doing quite well with my grades and I have not missed a class all of this s
 I really enjoy learning new things and I take pride in myself to do well.
  
 ###Skills list
-.. People skills
-.. Good communication
-.. Punctuality
-.. Honest
-.. Trustworthy
-.. Hard working
-.. Problem solving
-.. Customer focused
-.. Time management
-.. Good eye for detail
-.. Team player
-.. Well organized
-.. Restricted drivers license
+* People skills
+* Good communication
+* Punctuality
+* Honest
+* Trustworthy
+* Hard working
+* Problem solving
+* Customer focused
+* Time management
+* Good eye for detail
+* Team player
+* Well organized
+* Restricted drivers license
 
 ###Education
 
@@ -37,11 +37,11 @@ BIT / 2017- still going
 I am studying at Otago Polytech in the BIT and will hopefully graduate in 2019. My subjects are programming, maths, PP1, PC maintenance and systems analysis.
 Summer Heights High / 2010-2015
 Did NCEA level 3 in
-.. Maths
-.. Computer Science
-.. English
-.. Geography
-.. Economics
+* Maths
+* Computer Science
+* English
+* Geography
+* Economics
 First Aid certificate / 2014
 Star course hospitality / 2015
 Experience
