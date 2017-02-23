@@ -54,8 +54,8 @@ CISCO certification from PC Maintenance
 
 ###References
 
-Joy Gasson
-Otago Polytech
+Joy Gasson,
+Otago Polytech,
 Joy.gasson@op.ac.nz
 
 
