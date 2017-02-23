@@ -19,19 +19,23 @@ I really enjoy learning new things and I take pride in myself to do well.
 
 ###Education
 
-BIT / 2017- still going
-I am studying at Otago Polytech in the BIT and will hopefully graduate in 2019. My subjects are programming, maths, PP1, PC maintenance and systems analysis.
-Summer Heights High / 2010-2015
-Completed NZQA level 3
-First Aid certificate / 2014
-Star course hospitality / 2015
+Otago Polytechnic 2017- Ongoing
+Currently studying Bachelor in Information Technology  
+Summer Heights High / 2010-2015  
+Completed NZQA level 3  
+First Aid certificate 2014  
+Star course hospitality 2015
+
 ### Work Experience
-Highgate dairy
-2013
+
+Highgate dairy  
+2013 - Current  
 Cash handling and assisting in customer desicions.
-Awards and Acknowledgements
-ITE A+ / CICSO
-CISCO certification from PC Maintenance
+
+###Awards and Acknowledgements
+
+ITE A+ / CICSO  
+CISCO certification from PC Maintenance  
 
 ###References
 
