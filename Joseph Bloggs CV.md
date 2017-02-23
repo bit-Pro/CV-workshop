@@ -1,4 +1,4 @@
-# JOSEPH BLOGGS' CV
+# JOSEPH BLOGGS
 1 Smith St, Dunedin | (03) 477 4774 | jbloggs@gmail.com
 
 ## Personal Summary
