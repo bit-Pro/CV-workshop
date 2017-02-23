@@ -19,7 +19,13 @@ I am Bachelor of Information Technology Student. I am great with people because 
 ## Education
 
 ### BIT / 2017 - Ongoing
-I am studying at Otago Polytech in the BIT and will hopefully graduate in 2019. My subjects are programming, mathematics, Professional Practice, PC maintenance and systems analysis.
+I am studying at Otago Polytech in the BIT and will hopefully graduate in 2019. 
+My subjects are: 
+* Programming 
+* Mathematics
+* Professional Practice
+* PC maintenance
+* Systems analysis.
 
 ### Summer Heights High / 2010-2015
 I achieved NCEA level 3 during high-school, completing;
