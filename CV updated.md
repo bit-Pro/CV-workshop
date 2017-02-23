@@ -1,5 +1,7 @@
 ##Joseph Bloggs
+
 |1 Smith St, Dunedin | (03) 477 4774 | xboxfiend512@hotmail.com |
+
 Personal Summary
 I am great with people because I can communicate well and I am very friendly, as well as having good manners.
  I am very reliable, I always turn up on time, I’m honest and hard working and I enjoy working with people.
