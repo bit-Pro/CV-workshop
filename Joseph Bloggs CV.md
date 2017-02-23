@@ -9,29 +9,29 @@ I am currently studying the Bachelor of Information Technology at Otago Polytech
 
 ## Skills
 	
-	+ Good communication skills
-	+ Works efficiently in teams
-	+ Organized
-	+ Punctual
-	+ Proficient in problem solving
++ Good communication skills
++ Works efficiently in teams
++ Organized
++ Punctual
++ Proficient in problem solving
 
 ## Education and Awards
 
-	+ BIT, Otago Polytechnic, 2017 -
-		Papers covering the following:
-		..+ Programming
-		..+ Mathematics
-		..+ Professional Practice
-		..+ PC Mainten	ance
-		..+ Systems analysis
++ BIT, Otago Polytechnic, 2017 -
+	Papers covering the following:
+	..+ Programming
+	..+ Mathematics
+	..+ Professional Practice
+	..+ PC Mainten	ance
+	..+ Systems analysis
 	
-	+ NCEA Level 3, Summer Heights High, 2010 - 2015
-		I achieved level 3 in the following subjects:
-		..+ Mathematics
-		..+ Computer Science
-		..+ English
-		..+ Geography
-		..+ Economics
++ NCEA Level 3, Summer Heights High, 2010 - 2015
+	I achieved level 3 in the following subjects:
+	..+ Mathematics
+	..+ Computer Science
+	..+ English
+	..+ Geography
+	..+ Economics
 	
 	+ First Aid certificate, 2014
 	
