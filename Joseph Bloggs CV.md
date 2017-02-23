@@ -7,7 +7,13 @@ Learning new things is something I thoroughly enjoy and I take pride in myself t
 attitude, make the most of every opportunity, and love making a difference.
 I am currently studying the Bachelor of Information Technology at Otago Polytechnic.
 
-## 
+## Skills
+	
+	+ Good communication skills
+	+ Works efficiently in teams
+	+ Organized
+	+ Punctual
+	+ Proficient in problem solving
 
 ## Education and Awards
 
@@ -16,7 +22,7 @@ I am currently studying the Bachelor of Information Technology at Otago Polytech
 		..+ Programming
 		..+ Mathematics
 		..+ Professional Practice
-		..+ PC Maintenance
+		..+ PC Mainten	ance
 		..+ Systems analysis
 	
 	+ NCEA Level 3, Summer Heights High, 2010 - 2015
@@ -33,4 +39,15 @@ I am currently studying the Bachelor of Information Technology at Otago Polytech
 	
 	+ ITE A+, PC Maintenance, CISCO Academy
 
-## 
+## Experience
+
+	+ Highgate Dairy, Dunedin, 2013
+		I worked as a retail assistant in this position. My roles were serving customers, cleaning,
+		and closing at the end of the work day.
+
+## References
+
+	Joy Gasson
+	Otago Polytechnic
+	Joy.gasson@op.ac.nz
+	
