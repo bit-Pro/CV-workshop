@@ -19,9 +19,9 @@ I really enjoy learning new things and I take pride in myself to do well.
 
 ###Education
 
-Otago Polytechnic 2017- Ongoing
-Currently studying Bachelor in Information Technology  
-Summer Heights High / 2010-2015  
+####Otago Polytechnic 2017- Ongoing  
+Currently studying Bachelor in Information Technology   
+####Summer Heights High / 2010-2015  
 Completed NZQA level 3  
 First Aid certificate 2014  
 Star course hospitality 2015
