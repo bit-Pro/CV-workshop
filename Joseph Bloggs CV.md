@@ -14,11 +14,11 @@ I am Bachelor of Information Technology Student. I am great with people because 
 * Customer Focused
 	- I also have customer service experience from completing a customer service desk during my course.
 * Time management
-*Restricted Driver's Licence
+* Restricted Driver's Licence
 
 ## Education
 
-### BIT / 2017 - Ongoing
+### BIT / 2017-Present
 I am studying at Otago Polytech in the BIT and will hopefully graduate in 2019. 
 My subjects are: 
 * Programming 
@@ -42,8 +42,7 @@ I achieved NCEA level 3 during high-school, completing;
 
 ## Work Experience
 
-### Highgate Dairy
-*2013*
+### Highgate Dairy / 2013
 For this job I sold confectionary and interacted with customers. I also cleaned and closed up the till at the end of the day.
 
 ## Awards and Acknowledgements
