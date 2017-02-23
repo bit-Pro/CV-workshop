@@ -1,4 +1,4 @@
-JOSEPH BLOGGS
+# JOSEPH BLOGGS ;
 1 Smith St, Dunedin  (03) 477 4774  insert professional email
 Personal Summary
 
