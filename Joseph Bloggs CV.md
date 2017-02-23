@@ -1,5 +1,5 @@
 # Joseph Blogg's CV
-JosephBloggs@gmail.com | (03) 477 4774 | 1 Smith street, Dunedin
+JosephBloggs@gmail.com | (03) 477 4774 | 1 Smith Street, Dunedin
 
 ## Personal Statement
 
@@ -9,11 +9,11 @@ I am currently studying the Bachelor of Information Technology at Otago Polytech
 
 ## Skills
 	
-+ Good communication skills
-+ Works efficiently in teams
++ Good communication skills, strengthened by working with customers in my previous job
++ Works efficiently in teams, demonstrated during group works in the BIT
 + Organized
 + Punctual
-+ Proficient in problem solving
++ Proficient in problem solving, I've had to face many difficulties during my time in the BIT and the workforce, and overcoming these has added to my already refined problem solving skills
 
 ## Education and Awards
 
@@ -22,7 +22,7 @@ Papers covering the following:
 	* Programming
 	* Mathematics
 	* Professional Practice
-	* PC Mainten	ance
+	* PC Maintenance
 	* Systems analysis
 	
 + NCEA Level 3, Summer Heights High, 2010 - 2015  
