@@ -17,37 +17,37 @@ I am currently studying the Bachelor of Information Technology at Otago Polytech
 
 ## Education and Awards
 
-+ BIT, Otago Polytechnic, 2017 -
-	Papers covering the following:
-	..+ Programming
-	..+ Mathematics
-	..+ Professional Practice
-	..+ PC Mainten	ance
-	..+ Systems analysis
+- BIT, Otago Polytechnic, 2017 -  
+Papers covering the following:
+	* Programming
+	* Mathematics
+	* Professional Practice
+	* PC Mainten	ance
+	* Systems analysis
 	
-+ NCEA Level 3, Summer Heights High, 2010 - 2015
-	I achieved level 3 in the following subjects:
-	..+ Mathematics
-	..+ Computer Science
-	..+ English
-	..+ Geography
-	..+ Economics
++ NCEA Level 3, Summer Heights High, 2010 - 2015  
+I achieved level 3 in the following subjects:
+	* Mathematics
+	* Computer Science
+	* English
+	* Geography
+	* Economics
 	
-	+ First Aid certificate, 2014
+- First Aid certificate, 2014
 	
-	+ Star Course Hospitality, 2015
+- Star Course Hospitality, 2015
 	
-	+ ITE A+, PC Maintenance, CISCO Academy
+- ITE A+, PC Maintenance, CISCO Academy
 
 ## Experience
 
-	+ Highgate Dairy, Dunedin, 2013
-		I worked as a retail assistant in this position. My roles were serving customers, cleaning,
-		and closing at the end of the work day.
+- Highgate Dairy, Dunedin, 2013  
+	I worked as a retail assistant in this position. My roles were serving customers, cleaning,
+	and closing at the end of the work day.
 
 ## References
 
-	Joy Gasson
-	Otago Polytechnic
-	Joy.gasson@op.ac.nz
+Joy Gasson  
+Otago Polytechnic  
+Joy.gasson@op.ac.nz  
 	
