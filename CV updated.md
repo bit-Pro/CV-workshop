@@ -54,12 +54,17 @@ CISCO certification from PC Maintenance
 
 ###References
 
-Joy Gasson,
-Otago Polytech,
+Joy Gasson
+
+Otago Polytech
+
 Joy.gasson@op.ac.nz
 
 
 Marie Bloggs
+
 (03) 477 4774 
-1 Smith St, 
+
+1 Smith St
+
 Dunedin
