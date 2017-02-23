@@ -4,7 +4,8 @@
 ## Personal Summary
 
 I am currently studying towards a Bachelor of Information Technology, I am honest and hard working as a person and have a positive attitude towards tasks and opportunities that I take up or are given.
-Qualifications
+
+## Qualifications
 
 ### Bachelor of Information Technology / 2017- Present
 - Programming
