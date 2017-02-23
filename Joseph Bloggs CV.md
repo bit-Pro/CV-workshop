@@ -1,5 +1,5 @@
 # JOSEPH BLOGGS' CV
-1 Smith St, Dunedin | (03) 477 4774 | xboxfiend512@hotmail.com
+1 Smith St, Dunedin | (03) 477 4774 | jbloggs@gmail.com
 
 ## Personal Summary
 
@@ -23,11 +23,11 @@ I am studying at Otago Polytech in the BIT and will hopefully graduate in 2019. 
 
 ### Summer Heights High / 2010-2015
 I achieved NCEA level 3 during high-school, completing;
-	* Mathematics
-	* Computer Science
-	* English
-	* Geography
-	* Economics
+* Mathematics
+* Computer Science
+* English
+* Geography
+* Economics
 	
 ### First Aid certificate / 2014
 
